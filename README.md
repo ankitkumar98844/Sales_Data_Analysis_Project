@@ -68,8 +68,6 @@ ankit_salse_dashboard.scr_final.png
 ---
 ## 📄 Project Report
 
- 
-
 Detailed project report is available below:
 
 Sales_Data_Analysis_Report.pdf
