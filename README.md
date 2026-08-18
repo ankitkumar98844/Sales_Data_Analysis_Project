@@ -66,7 +66,15 @@ These datasets contain information related to orders, sales amount, profit, quan
 ankit_salse_dashboard.scr_final.png
 
 ---
-
+## 📄 Project Report
+2
+ 
+3
+Detailed project report is available below:
+4
+ 
+5
+./Sales_Data_Analysis_Report.pdf
 ## 🔍 Key Business Insights
 
 - Maharashtra generated the highest sales among all states.
